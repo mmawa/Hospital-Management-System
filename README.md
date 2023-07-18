@@ -9,3 +9,4 @@ The entire project mainly consists of 3 modules and those are
 1. Admin module
 2. User module
 3. Doctor module
+4. Pharmacy module 
